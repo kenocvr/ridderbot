@@ -1,0 +1,16 @@
+{
+  "name": "ridderbot",
+  "version": "1.0.0",
+  "description": "A marriage of Reddit and Twitter",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlos rucker",
+  "license": "ISC",
+  "dependencies": {
+    "reddit": "^0.1.0",
+    "twit": "^2.2.9"
+  }
+}
